@@ -22,15 +22,31 @@ AI productivity assistant that manages daily tasks and planning using Python and
 
 ## Project Structure
 
-AI-Productivity-Assistant  
-│  
+AI-Productivity-Assistant
+
 ├── app.py (Streamlit interface)  
 ├── ai_engine.py (AI assistant logic)  
 ├── tasks.py (task management)  
 ├── database.py (database connection)  
 ├── tasks.db (SQLite database)  
-└── data/  
+└── data/
 
 ## How to Run
 
-Install dependencies
+### 1 Install dependencies
+
+### 2 Run the application
+
+### 3 Open in browser
+
+## Example Commands
+
+add task study machine learning  
+complete task 1  
+delete task 2  
+plan my day
+
+## Author
+
+Harshitha  
+Data Science Student
